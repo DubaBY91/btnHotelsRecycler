@@ -24,6 +24,7 @@ class ThailandActivity : AppCompatActivity() {
             Hotel("Another", "1000"),
             Hotel("Another", "1000"),
             Hotel("Another", "1000"),
+            Hotel("Another", "1000"),
             )
         val adapter = Egypt_adapter(hotelList)
         rvThailand_Hotels.adapter = adapter
